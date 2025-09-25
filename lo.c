@@ -1,12 +1,20 @@
 #include <stdio.h>
 
 void main () {
-int age;
-double h;
-printf("your age and hegitttt");
+ int a , A ;
 
-scanf("%d %lf" , &age ,&h);
+  printf("ENTER a");
 
-printf("%d \n %lf" , age , h );
+  scanf("%d" , &a );
+
+   printf("ENTER A");
+ 
+   scanf("%d" , &A);
+
+   int TOTAL = a + A ;
+
+   printf("%d" , TOTAL);
+
+
 
 }
