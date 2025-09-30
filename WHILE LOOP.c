@@ -1,4 +1,17 @@
+/*
+use int =1;
+
+//code
+
+i++;
+
+for counting/counter for loop 
+(how much time i want to run loop)
+
+*/
+
 #include <stdio.h>
+
 
 void main () {
 int a,b=0;
@@ -16,3 +29,4 @@ while(i<=a)
 
 
 }
+
