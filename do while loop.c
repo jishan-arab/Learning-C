@@ -1,3 +1,5 @@
+//focus on variable which one is to be stay constant , which will change and on which condition to be applied
+
 #include <stdio.h>
 
 void main (){
